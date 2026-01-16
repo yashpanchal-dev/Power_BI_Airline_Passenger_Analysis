@@ -97,7 +97,7 @@ This project highlights practical skills in **data modeling, DAX measures, Power
 ## 👤 Author
 
 **Yash Panchal**  
-GitHub: https://github.com/meyashpanchal
+GitHub: https://github.com/yashpanchal-dev
 
 
 ---
